@@ -2,4 +2,4 @@
 Actividad cierre sprint 2
 Inspirado en Wireframe del Profesor
 
-![alt text](./wireframe.PNG)
+![wireframe](https://github.com/LucasiBai/AppGastos-ITBA/blob/main/wireframe.png)
